@@ -55,6 +55,13 @@ and updates the `Trailblazer__c` record's data. 5 jobs are enqueued at a time (l
 schedules a new batch to run for the next five while removing the previous `Trailblazer__c` from the queue until its
 finished.
 
+https://githubsfdeploy.herokuapp.com/app/githubdeploy/Kaleb486/trailhead-leaderboard
+
+<a href="https://githubsfdeploy.herokuapp.com?owner=Kaleb486&repo=trailhead-leaderboard">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ## Roadmap
 
 - ~~Add Badges~~
